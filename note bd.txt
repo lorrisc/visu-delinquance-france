@@ -1,0 +1,18 @@
+CLASS :
+cl_id
+cl_lib
+
+DEPARTMENT : 
+dp_id
+dp_code
+
+YEAR :
+yr_id
+yr_lib
+
+CENSUS :
+cl_id
+dp_id
+yr_id
+ce_tot
+ce_rate
